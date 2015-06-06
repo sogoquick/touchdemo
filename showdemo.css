@@ -76,34 +76,34 @@ html,body{
     left: 0;
 }
 .page1,.page2,.page12,.page13{
-    background: url(img/qnt/gqntbg.jpg) no-repeat;
+    background: url(img/qnt/qntbg.jpg) no-repeat;
 }
 .page3{
-    background: url(img/qnt/gp3bg.jpg) 0 -15px;
+    background: url(img/qnt/p3bg.jpg) 0 -15px;
 }
 .page4{
-    background: url(img/qnt/gp4bg.jpg) 0 -15px;
+    background: url(img/qnt/p4bg.jpg) 0 -15px;
 }
 .page5{
-    background: url(img/qnt/gp5bg.jpg) 0 -15px;
+    background: url(img/qnt/p5bg.jpg) 0 -15px;
 }
 .page6{
-    background: url(img/qnt/gp6bg.jpg) 0 -15px;
+    background: url(img/qnt/p6bg.jpg) 0 -15px;
 }
 .page7{
-    background: url(img/qnt/gp7bg.jpg) 0 -15px;
+    background: url(img/qnt/p7bg.jpg) 0 -15px;
 }
 .page8{
-    background: url(img/qnt/gp8bg.jpg) 0 -15px;
+    background: url(img/qnt/p8bg.jpg) 0 -15px;
 }
 .page9{
-    background: url(img/qnt/gp9bg.jpg) 0 -15px;
+    background: url(img/qnt/p9bg.jpg) 0 -15px;
 }
 .page10{
-    background: url(img/qnt/gp10bg.jpg)0 -15px;
+    background: url(img/qnt/p10bg.jpg)0 -15px;
 }
 .page11{
-    background: url(img/qnt/gp11bg.jpg) 0 -15px;
+    background: url(img/qnt/p11bg.jpg) 0 -15px;
 }
 
 .page1 .act{
@@ -323,7 +323,7 @@ html,body{
     margin-left: -21px;
     width: 42px;
     height: 34px;
-    background: url(img/qnt/garrow.png) no-repeat;
+    background: url(img/qnt/arrow.png) no-repeat;
     background-size: 100% 100%;
     -webkit-animation: start 1.5s infinite ease-in-out;
     animation: start 1.5s infinite ease-in-out;
@@ -418,7 +418,7 @@ html,body{
     padding: 0;
 }
 .abgne-loading .word-2{
-    background: url(img/qnt/glogo.png) no-repeat;
+    background: url(img/qnt/logo.png) no-repeat;
     background-size: 100% 100%;
     position: absolute;
     top: 90px;
